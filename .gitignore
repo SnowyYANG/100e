@@ -1,0 +1,9 @@
+# Inky / Ink generated output
+*.ink.json
+story.js
+ink.js
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
